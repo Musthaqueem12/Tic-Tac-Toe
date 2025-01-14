@@ -35,6 +35,6 @@ Welcome to the **Tic-Tac-Toe Game** project! This is a classic Tic-Tac-Toe game 
 This project is open source and available under the [MIT License](LICENSE). 📄
 
 ## ✨ Author
-**Chennoju Sathvik**
+**Musthaqueem**
 
 Feel free to contribute to this project by submitting issues and pull requests. 🤝
